@@ -79,3 +79,5 @@ function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
   redraw();
 }
+
+//questo l'ho scritto io
